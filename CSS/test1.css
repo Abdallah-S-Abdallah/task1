@@ -1,0 +1,21 @@
+.div1{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.div2{
+    width: 400px;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: tan
+}
+img{
+    width: 270px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
